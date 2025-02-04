@@ -3,3 +3,8 @@
   flex-direction: row;
   gap: 22px;
 }
+.header {
+  display: flex;
+  size: 100px;
+  color: blue;
+}
