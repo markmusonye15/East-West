@@ -3,9 +3,9 @@
   flex-direction: row;
   gap: 22px;
 }
-.header {
+.main header {
   display: flex;
-  size: 100px;
+  font-size: 100px;
   color: blue;
 }
 .container {
@@ -20,4 +20,16 @@
   font-size: 24px;
   font-weight: bold;
   margin-bottom: 20px;
+}
+.service-boxes {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.service {
+  background: #007bff;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 18px;
 }
