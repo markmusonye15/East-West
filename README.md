@@ -13,6 +13,6 @@ This is a **fully responsive** website for booking airline and charter flights. 
 
 ## 🛠️ Technologies Used
 
-- **HTML5** - Page structure
-- **CSS3** - Styling & responsiveness
+- **HTML** - Page structure
+- **CSS** - Styling & responsiveness
 - **JavaScript** - For interactivity
