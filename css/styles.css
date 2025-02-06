@@ -3,6 +3,7 @@
   flex-direction: row;
   gap: 22px;
   list-style: none;
+  text-align: center;
 }
 .main header {
   display: flex;
@@ -16,6 +17,7 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   text-align: center;
   width: 300px;
+  align-self: center;
 }
 .services {
   font-size: 24px;
@@ -63,4 +65,40 @@ footer {
   text-align: center;
   padding: 10px;
   margin-top: 20px;
+}
+.about,
+.mission,
+.services,
+.team {
+  width: 80%;
+  margin: 20px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+.services ul {
+  list-style: none;
+  padding: 0;
+}
+.booking {
+  text-align: center;
+  margin: 20px;
+}
+
+.booking form {
+  display: inline-block;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.features {
+  text-align: center;
+  padding: 20px;
+}
+header {
+  padding: 15px;
+  text-align: center;
 }
