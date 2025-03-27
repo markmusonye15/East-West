@@ -1,0 +1,24 @@
+{
+  "name": "east-west",
+  "version": "1.0.0",
+  "description": "Fake rest api",
+  "homepage": "https://github.com/markmusonye15/East-West#readme",
+  "bugs": {
+    "url": "https://github.com/markmusonye15/East-West/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markmusonye15/East-West.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "devDependencies": {}
+}

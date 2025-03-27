@@ -1,0 +1,50 @@
+{
+  "flights": [
+    {
+      "id": 1,
+      "airline": "Skyward Express",
+      "flightNumber": "5Y-CDW",
+      "from": "Nairobi",
+      "to": "Mombasa",
+      "date": "2025-04-19",
+      "seats": 10
+    },
+
+    {
+      "id": 2,
+      "airline": "Safarilink",
+      "flightNumber": "5Y-SLM",
+      "from": "Nairobi",
+      "to": "Kisumu",
+      "date": "2025-04-20",
+      "seats": 5
+    },
+    {
+      "id": 3,
+      "airline": "Jambojet",
+      "flightNumber": "5Y-CCO",
+      "from": "Mombasa",
+      "to": "Nairobi",
+      "date": "2025-04-21",
+      "seats": 7
+    },
+    {
+      "id": 4,
+      "airline": "Renegade Air",
+      "flightNumber": "5Y-SRM",
+      "from": "Nairobi",
+      "to": "Homa-Bay",
+      "date": "2025-04-15",
+      "seats": 3
+    },
+    {
+      "id": 5,
+      "airline": "Air-kenya",
+      "flightNumber": "5Y-BBW",
+      "from": "Kakamega",
+      "to": "Nairobi",
+      "date": "2025-04-11",
+      "seats": 5
+    }
+  ]
+}
