@@ -16,3 +16,6 @@ This is a **fully responsive** website for booking airline and charter flights. 
 - **HTML** - Page structure
 - **CSS** - Styling & responsiveness
 - **JavaScript** - For interactivity
+- **Json server**
+
+## link to my google slides:https://docs.google.com/presentation/d/18mYbUVyDMqbvjG4HtatSKh3qwLBTP1zcxZuRPjfu1u0/edit?usp=sharing
